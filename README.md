@@ -1,0 +1,1 @@
+# fasshion_item_classifier
